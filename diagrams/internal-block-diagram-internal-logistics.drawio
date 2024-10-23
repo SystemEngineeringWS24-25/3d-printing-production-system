@@ -61,6 +61,9 @@
         <mxCell id="MTa_AIZH51s-TqAGsz_J-39" value="" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;rotation=-90;" vertex="1" parent="MTa_AIZH51s-TqAGsz_J-24">
           <mxGeometry y="46.66999999999996" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="MTa_AIZH51s-TqAGsz_J-41" value="&lt;div&gt;Only stub implementation and&amp;nbsp;&lt;/div&gt;&lt;div&gt;planning here&lt;/div&gt;" style="shape=note;size=15;spacingLeft=5;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195" y="395" width="250" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
