@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MTa_AIZH51s-TqAGsz_J-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;ibd&lt;/b&gt; [Block] Internal Logistics Sub-Sub-System&amp;nbsp; [Flow oriented view]&lt;br&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=406;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" vertex="1" parent="1">
+        <mxCell id="MTa_AIZH51s-TqAGsz_J-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;ibd&lt;/b&gt; [Block] Internal Logistics Sub-Sub-System [Flow oriented view]&lt;br&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=406;align=left;spacingLeft=10;overflow=fill;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="420" height="590" as="geometry" />
         </mxCell>
         <mxCell id="MTa_AIZH51s-TqAGsz_J-15" value="MES" style="html=1;shape=mxgraph.sysml.port1;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
