@@ -16,5 +16,5 @@ Wir brauchen also, aus diesen UseCases abgeleitet:
 - Ein automatisches Logistiksystem
 
 ## Verladung und Lagerung
-![stretch unloading something](./docs/research/images/stretch-unloading.jpg)
+![stretch unloading something](./images/stretch-unloading.jpg)
 
