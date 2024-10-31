@@ -48,4 +48,22 @@ für den Halleneinsatz.
 XMove ist eine Skalierbare Plattform, die Roboter gibt es auch in Varianten bis 2t Traglast. 
 Das scheint aber für unseren UseCase Overkill.
 
+## Lagerung 
 
+Während es für automatisierte Lagerhaltung ausgefeilte Systeme gibt, übersteigen deren Kosten 
+wahrscheinlich unser initialies Budget, und wären für unsere Zwecke zu mächtig. 
+Stattdessen wäre es denkbar, eine normale Lagerhalle mit Regalen einzurichten und Roboter 
+einzusetzen, die sich in autonom in der Lagerhalle zurechtfinden. Die gleiche Firma die auch den 
+Transportroboter anbietet, bietet hierfür eine Lösung:
+
+![vna move in duracell factory](./images/ek-robots-vna-move.webp)
+
+[EK-Robots VNA Move](https://ek-robotics.com/en/transport-robots/vna-move/#c8144): Narrow-Isle 
+Lagerroboter.
+- Kann bis zu einer Höhe von 14m Waren ein- und auslagern
+- findet sich durch verschiedenste Sensoren auch in engen Regalhallen zurecht
+
+Auch hier bieten die Roboter eine höhere Flexibilität als ein statisches Lagersystem. 
+Die Regalfläche kann bei Bedarf erweitert werden, ebenso können weitere Roboter zugekauft werden. 
+Die Anpassung an die neue Lagerfläche, bzw. die zusätzlichen Einheiten, kann dann rein in Software 
+geschehen.
