@@ -67,3 +67,9 @@ Auch hier bieten die Roboter eine höhere Flexibilität als ein statisches Lager
 Die Regalfläche kann bei Bedarf erweitert werden, ebenso können weitere Roboter zugekauft werden. 
 Die Anpassung an die neue Lagerfläche, bzw. die zusätzlichen Einheiten, kann dann rein in Software 
 geschehen.
+
+
+Feedback Lagersystem:
+Palettenlager ungeeignet. Automatisiertes Kleinteilelager? <br/>
+Wie werden Die Boxen ein- und ausgepackt? <br/>
+Das sollte noch spezifiziert werden.
