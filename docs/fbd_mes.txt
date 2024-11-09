@@ -1,41 +1,18 @@
-
 Input functions
-- Receive (normal) user commands?? (start, stop)
-
-– Accept emergency user commands
-– Receive 3D print order (from Order Management)
-- Receive the printing status (from 3D-Printing)
-- Receive printer status informations (from 3D-Printing)
-- Receive quality data (from Quality Assurance)
-- Receive product position data (from Internal Logistics)
-
-- Receive emergency commands (from all systems)
-– Receive electricity
-
-
-
-
+- Receive Print Order
+- Receive Emergency Signal
+- Receive Electricity
+- Receive Printing Status
+- Receive Printer to QA System Transport Status
+- Receive Quality Data
+- Receive QA to Storage System Transport Status
 
 Transformative functions
-- Link customer to product (Ordermanagement)
-- Handle current product status
-
-- Process information of other systems
-
-- Handle user commands 
-- Handle emergency commands
-
-
-
-
+- Handle Quality Information
 
 Output functions
-- Provide current product status
-
-– Send order status (to Order Management)
-- Send printing data (to 3D-Printing)
-- Send maintenance commands for the printer (to Internal Logistic)
-- Send product transport information (to Internal Logistic)
-
-- Send emergency commands to all systems
-
+- Dispatch Order
+- Pick up Printed Product
+- Initialize QA Process
+- Pick up Checked Product
+- Update Order
