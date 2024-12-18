@@ -1,0 +1,45 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
+  <diagram name="Seite-1" id="GFA_SByiZ649OcQAbFE9">
+    <mxGraphModel dx="1434" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-3" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Logistics&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="6ZrwGQORLd8Mbg2ievU_-8" target="6ZrwGQORLd8Mbg2ievU_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-8" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;3D-Printing&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="405" y="530" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="6ZrwGQORLd8Mbg2ievU_-13" target="6ZrwGQORLd8Mbg2ievU_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="410" />
+            </Array>
+            <mxPoint x="491.24" y="411.68" as="sourcePoint" />
+            <mxPoint x="568.71" y="359.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="6ZrwGQORLd8Mbg2ievU_-13" target="6ZrwGQORLd8Mbg2ievU_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-13" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;MES&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-14" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Quality Assurance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="6ZrwGQORLd8Mbg2ievU_-40" target="6ZrwGQORLd8Mbg2ievU_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="445" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ZrwGQORLd8Mbg2ievU_-40" value="&lt;div style=&quot;&quot;&gt;OrderManagement&lt;/div&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;fontStyle=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
